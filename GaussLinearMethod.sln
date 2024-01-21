@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaussLinearMethod", "GaussLinearMethod\GaussLinearMethod.csproj", "{EC9C13E1-93F1-4E8F-9F2F-90CDBDAFB44F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{02EE3D00-929D-4593-BFEE-5CB04EA8895D} = {02EE3D00-929D-4593-BFEE-5CB04EA8895D}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibKlas", "..\Metoda Gaussa\MojaBiblioteka\BibKlas\BibKlas.csproj", "{02EE3D00-929D-4593-BFEE-5CB04EA8895D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC9C13E1-93F1-4E8F-9F2F-90CDBDAFB44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9C13E1-93F1-4E8F-9F2F-90CDBDAFB44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9C13E1-93F1-4E8F-9F2F-90CDBDAFB44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9C13E1-93F1-4E8F-9F2F-90CDBDAFB44F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02EE3D00-929D-4593-BFEE-5CB04EA8895D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02EE3D00-929D-4593-BFEE-5CB04EA8895D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02EE3D00-929D-4593-BFEE-5CB04EA8895D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02EE3D00-929D-4593-BFEE-5CB04EA8895D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E82036F0-7982-463A-BC85-137E003AFE73}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Kraina Marzeń\source\repos\GaussLinearMethod\GaussLinearMethod\bin\Debug\GaussLinearMethod.exe.config
+C:\Users\Kraina Marzeń\source\repos\GaussLinearMethod\GaussLinearMethod\bin\Debug\GaussLinearMethod.exe
+C:\Users\Kraina Marzeń\source\repos\GaussLinearMethod\GaussLinearMethod\bin\Debug\GaussLinearMethod.pdb
+C:\Users\Kraina Marzeń\source\repos\GaussLinearMethod\GaussLinearMethod\bin\Debug\BibKlas.dll
+C:\Users\Kraina Marzeń\source\repos\GaussLinearMethod\GaussLinearMethod\bin\Debug\BibKlas.pdb
+C:\Users\Kraina Marzeń\source\repos\GaussLinearMethod\GaussLinearMethod\obj\Debug\GaussLinearMethod.csproj.AssemblyReference.cache
+C:\Users\Kraina Marzeń\source\repos\GaussLinearMethod\GaussLinearMethod\obj\Debug\GaussLinearMethod.Form1.resources
+C:\Users\Kraina Marzeń\source\repos\GaussLinearMethod\GaussLinearMethod\obj\Debug\GaussLinearMethod.Properties.Resources.resources
+C:\Users\Kraina Marzeń\source\repos\GaussLinearMethod\GaussLinearMethod\obj\Debug\GaussLinearMethod.csproj.GenerateResource.cache
+C:\Users\Kraina Marzeń\source\repos\GaussLinearMethod\GaussLinearMethod\obj\Debug\GaussLinearMethod.csproj.CoreCompileInputs.cache
+C:\Users\Kraina Marzeń\source\repos\GaussLinearMethod\GaussLinearMethod\obj\Debug\GaussLinearMethod.csproj.CopyComplete
+C:\Users\Kraina Marzeń\source\repos\GaussLinearMethod\GaussLinearMethod\obj\Debug\GaussLinearMethod.exe
+C:\Users\Kraina Marzeń\source\repos\GaussLinearMethod\GaussLinearMethod\obj\Debug\GaussLinearMethod.pdb
